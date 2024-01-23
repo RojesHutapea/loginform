@@ -1,0 +1,15 @@
+h4 {
+    margin-bottom: 40px;
+}
+
+.container {
+    padding: 40px;
+    border-radius: 2%;
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+}
+
+button {
+    width: 48%;
+}
